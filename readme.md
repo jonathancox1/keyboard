@@ -1,1 +1,1 @@
-# The default Preonic layout - largely based on the Planck's
+Repo for preoinic keymap, work in progress

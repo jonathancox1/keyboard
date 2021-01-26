@@ -1,1 +1,1 @@
-Repo for preoinic keymap, work in progress
+Repo for planck keymap, work in progress
